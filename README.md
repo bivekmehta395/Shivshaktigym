@@ -25,9 +25,10 @@ To set up the ShivShakti Application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://![Screenshot (4)](https://github.com/user-attachments/assets/699a57fc-2e73-47ad-8b9b-e69b0d550f91)
+   git clone https://github.com/bivekmehta395/shivshakti.git
 
 
 # Screenshot
-github.com/bivekmehta395/shivshakti.git
+![Screenshot (4)](https://github.com/user-attachments/assets/699a57fc-2e73-47ad-8b9b-e69b0d550f91)
+
 
